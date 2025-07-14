@@ -1,6 +1,7 @@
 # PACKAGE
-a package for python
-the functions are: 
-shows if a number is odd or prime 
-print a header 
-among others
+
+A simple python package made for train modularization in python the functions are: 
+- shows if a number is odd or prime 
+- print a header 
+- among many others
+---
